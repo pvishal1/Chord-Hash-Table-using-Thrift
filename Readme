@@ -1,0 +1,8 @@
+Programming language: Python
+
+compile and run using:
+chmod +x server.sh
+./server.sh <port>
+
+Finished: All 6 functions mentioned in pdf is completed.
+
